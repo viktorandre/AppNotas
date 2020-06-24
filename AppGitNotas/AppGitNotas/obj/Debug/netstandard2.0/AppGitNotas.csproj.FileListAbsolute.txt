@@ -1,0 +1,14 @@
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\AppGitNotas.deps.json
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\AppGitNotas.dll
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\ref\AppGitNotas.dll
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\bin\Debug\netstandard2.0\AppGitNotas.pdb
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.csprojAssemblyReference.cache
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.AssemblyInfoInputs.cache
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.AssemblyInfo.cs
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.csproj.CoreCompileInputs.cache
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.dll
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\ref\AppGitNotas.dll
+C:\Mobiles\AppNotas\AppGitNotas\AppGitNotas\obj\Debug\netstandard2.0\AppGitNotas.pdb
